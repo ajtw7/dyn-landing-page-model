@@ -144,6 +144,10 @@ input {
   text-align: center;
 }
 
+input::placeholder {
+  color: white;
+}
+
 button {
   color: grey;
   padding: 5px 15px;
